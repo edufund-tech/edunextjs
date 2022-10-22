@@ -1,6 +1,6 @@
-# EdufundNext
+# EduNextJS
 
-This repo contains _non-production ready_ of EdufundNext for learning purpose only.
+This repo contains _boilerplate_ of **EduNextJS**.
 
 ## Overview
 
