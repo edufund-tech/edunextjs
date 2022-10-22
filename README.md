@@ -13,6 +13,7 @@ This repo was created with intention to rebuild existing [Borrower Web App _(Ang
 - React-DOM
 - Typescript
 - ESLint
+- [Prettier](https://prettier.io/)
 
 ## Installation
 
