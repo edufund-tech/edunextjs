@@ -14,6 +14,7 @@ This repo was created with intention to rebuild existing [Borrower Web App _(Ang
 - Typescript
 - ESLint
 - [Prettier](https://prettier.io/)
+- [clsx](https://github.com/lukeed/clsx)
 
 ## Installation
 
