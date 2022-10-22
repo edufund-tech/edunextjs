@@ -6,6 +6,15 @@ This repo contains _boilerplate_ of **EduNextJS**. **You should not** use this r
 
 This repo was created with intention to rebuild existing [Borrower Web App _(Angular)_](https://edufund.co.id) from scratch using **_NextJS_**.
 
+Before use please clone this repo and change the name inside _package.json_ file
+
+```
+{
+	name: YOUR_DESIRED_PROJECT_NAME,
+	...
+}
+```
+
 ## Dependencies
 
 - [Next](https://nextjs.org/)
