@@ -1,10 +1,10 @@
 # EduNextJS
 
-This repo contains _boilerplate_ of **EduNextJS**.
+This repo contains _boilerplate_ of **EduNextJS**. **You should not** use this repo directly, please clone this repo for your personal/project use.
 
 ## Overview
 
-This repo was created with intention to rebuild existing [Borrower Web App _(Angular)_](https://edufund.co.id) from scratch using _NextJS_.
+This repo was created with intention to rebuild existing [Borrower Web App _(Angular)_](https://edufund.co.id) from scratch using **_NextJS_**.
 
 ## Dependencies
 
@@ -53,5 +53,11 @@ yarn
 ## Run Project Locally
 
 ```
-next dev
+npm run dev
+```
+
+or
+
+```
+yarn dev
 ```
