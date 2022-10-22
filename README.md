@@ -25,13 +25,13 @@ git clone { ssh | https }
 #### SSH
 
 ```
-git@github.com:edufund-tech/nextjs.git
+git@github.com:edufund-tech/edunextjs.git
 ```
 
 #### HTTPS
 
 ```
-https://github.com/edufund-tech/nextjs.git
+https://github.com/edufund-tech/edunextjs.git
 ```
 
 #### Installing Dependency
