@@ -16,6 +16,7 @@ This repo was created with intention to rebuild existing [Borrower Web App _(Ang
 - [Prettier](https://prettier.io/)
 - [clsx](https://github.com/lukeed/clsx)
 - [TailwindCSS](https://tailwindcss.com/)
+- [Husky](https://typicode.github.io/husky)
 
 ## Installation
 
