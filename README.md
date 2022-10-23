@@ -6,7 +6,7 @@ This repo contains _boilerplate_ of **EduNextJS**. **You should not** use this r
 
 This repo was created with intention to rebuild existing [Borrower Web App _(Angular)_](https://edufund.co.id) from scratch using **_NextJS_**.
 
-Before use please clone this repo and change the name inside _package.json_ file
+Before use please clone this repo and change the name inside _`package.json`_ file
 
 ```
 {
@@ -49,6 +49,8 @@ https://github.com/edufund-tech/edunextjs.git
 
 #### Installing Dependency
 
+Run one of this command in your terminal
+
 ```
 npm install
 ```
@@ -61,6 +63,8 @@ yarn
 
 ## Run Project Locally
 
+To run this project locally you can run one of this command in your terminal
+
 ```
 npm run dev
 ```
@@ -70,3 +74,18 @@ or
 ```
 yarn dev
 ```
+
+And then check out [http://localhost:3000](http://localhost:3000) in your browser to see the result.
+
+There is also a built-in _API Routes_ that can be accessed on [http://localhost:3000/api/info](http://localhost:3000/api/info) to see current project name and version.
+
+## To Do List
+
+- [x] create-next-app
+- [x] remove boilerplate code
+- [x] add TailwindCSS
+- [x] add Prettier
+- [x] add clsx
+- [x] setup Husky pre-commit hooks
+- [x] add version check API Routes
+- [ ] add tRPC
