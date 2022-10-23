@@ -89,3 +89,4 @@ There is also a built-in _API Routes_ that can be accessed on [http://localhost:
 - [x] setup Husky pre-commit hooks
 - [x] add version check API Routes
 - [ ] add tRPC
+- [ ] add themes to tailwindconfig
