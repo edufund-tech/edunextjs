@@ -6,11 +6,11 @@ This repo contains _boilerplate_ of **EduNextJS**. **You should not** use this r
 
 This repo was created with intention to rebuild existing [Borrower Web App _(Angular)_](https://edufund.co.id) from scratch using **_NextJS_**.
 
-Before use please clone this repo and change the name inside _`package.json`_ file
+Before use please clone this repo and change the name of the project inside _`package.json`_ file
 
 ```
 {
-	name: YOUR_DESIRED_PROJECT_NAME,
+	name: #YOUR_DESIRED_PROJECT_NAME,
 	...
 }
 ```
@@ -75,18 +75,18 @@ or
 yarn dev
 ```
 
-And then check out [http://localhost:3000](http://localhost:3000) in your browser to see the result.
+And then check out [http://local.edufund.co.id:3200](http://local.edufund.co.id:3200) in your browser to see the result.
 
-There is also a built-in _API Routes_ that can be accessed on [http://localhost:3000/api/info](http://localhost:3000/api/info) to see current project name and version.
+There is also a built-in _API Routes_ that can be accessed on [http://local.edufund.co.id:3200/api/info](http://local.edufund.co.id:3200/api/info) to see current project name and version.
 
 ## To Do List
 
-- [x] create-next-app
-- [x] remove boilerplate code
-- [x] add TailwindCSS
-- [x] add Prettier
-- [x] add clsx
-- [x] setup Husky pre-commit hooks
-- [x] add version check API Routes
-- [ ] add tRPC
-- [ ] add themes to tailwindconfig
+- [x] Initialize project repository
+- [x] Remove boilerplate code from _create-next-app_
+- [x] Add TailwindCSS
+- [x] Add Prettier
+- [x] Add clsx
+- [x] Setup Husky _pre-commit hooks_
+- [x] Add _version check_ API Routes
+- [ ] Add tRPC
+- [ ] Add themes to _tailwind config_
